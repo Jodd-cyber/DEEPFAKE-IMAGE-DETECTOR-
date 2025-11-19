@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision
+scikit-learn
+pandas
+numpy
+tqdm
+matplotlib
+Pillow
+torchmetrics
